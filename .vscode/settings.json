@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": ["./path-to-your-code"],
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "python.analysis.extraPaths": [
+        "./path-to-your-code"
+    ]
+}
